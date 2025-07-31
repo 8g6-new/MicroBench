@@ -40,7 +40,7 @@ int main() {
 
 ### Compilation
 ```bash
-gcc -o myprogram myprogram.c -lm -lrt
+gcc -o test test.c -lm -lrt
 ```
 
 ## 📖 Basic Usage
